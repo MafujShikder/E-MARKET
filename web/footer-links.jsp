@@ -1,0 +1,9 @@
+<script src="js/jquery-1.9.1.min.js"></script>
+                <script src="js/jquery-ui.js"></script>
+                <script src="js/jquery.cycle.all.js"></script>
+                <script src="js/modernizr.custom.17475.js"></script>
+                <script src="js/jquery.elastislide.js"></script>
+                <script src="js/jquery.carouFredSel-6.0.4-packed.js"></script>
+                <script src="js/jquery.selectBox.js"></script>
+                <script src="js/jquery.tooltipster.min.js"></script>
+                <script src="js/jquery.prettyPhoto.js"></script>
